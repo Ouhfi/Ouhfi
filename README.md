@@ -28,12 +28,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Ouhfi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouhfi&show_icons=true&theme=tokyonight)
-
----
+![Ouhfi GitHub stats](https://github-readme-stats.vercel.app/api?username=ouhfi&show_icons=true&theme=tokyonight)
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouhfi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouhfi&layout=compact&theme=tokyonight)
 
 ---
 
